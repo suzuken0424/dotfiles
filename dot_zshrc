@@ -1,0 +1,4 @@
+# brew
+eval "$(/opt/homebrew/bin/brew shellenv)"
+# asdf
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
